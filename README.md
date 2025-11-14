@@ -1,4 +1,4 @@
-# stexs-core (Node.js Iteration)
+# stexs-spike (Node.js Iteration)
 
 > **Notice:** This version of STEXS is no longer under active development.  
 > A complete rewrite is underway using **Rust**, with a focus on **low-latency**, **global distribution**, and **next-gen performance architecture**.
